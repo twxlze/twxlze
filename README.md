@@ -4,7 +4,7 @@
 </div>
 <br>
 <div align="center">
-  <h1>About me</h1>
+  <h1>ABOUT ME</h1>
   <p>
     I’m currently a second-year student in a Bachelor of Computer Science <br>
     (BUT Informatique) at IUT Dijon–Auxerre–Nevers.<br>
@@ -14,7 +14,6 @@
 
   <br>
   
-  ![Oui](banner4.jpg)
 </div>
 
 ---
