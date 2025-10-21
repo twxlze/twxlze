@@ -1,11 +1,15 @@
+<!-- Bannière -->
 <div align="center">
   
-![Bannière](banner3.jpg)
+  ![Bannière](banner3.jpg)
+
 </div>
+
+<!-- About me -->
 <br>
 <div align="center">
   <h1>ABOUT ME</h1>
-  <p>
+  <p><br>
     I’m currently a second-year student in a Bachelor of Computer Science <br>
     (BUT Informatique) at IUT Dijon–Auxerre–Nevers.<br>
     I enjoy coding and exploring new technologies.<br>
@@ -17,9 +21,11 @@
 </div>
 
 ---
-
-<h1 align="center">Technologies</h1>
+<br>
+<!-- Technos -->
+<h1 align="center">TECHNOLOGIES</h1>
 <div align="center">
+<br>
 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,6 +35,14 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![XAML](https://img.shields.io/badge/XAML-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 </div>
+<br>
+
+<!-- Footer -->
+<div align="center">
+  
+  ![Footer](banner5.png)
+</div>
+
 <!--
 **twxlze/twxlze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
